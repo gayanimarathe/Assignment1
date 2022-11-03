@@ -6,6 +6,8 @@ class PalindromeExample {
     
     // store the number to originalNum
     int originalNum = num;
+
+    System.out.println("HEYYYYYYYYYYYYYYYYY!!!!!!!!!!!!");
     
     // get the reverse of originalNum
     // store it in variable
