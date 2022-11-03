@@ -1,7 +1,8 @@
 class PalindromeExample {
   public static void main(String[] args) {
-    
-    int num = 3553, reversedNum = 0, remainder;
+    Scanner sc = new Scanner(System.in);
+    int num = sc.nextInt();
+    int reversedNum = 0, remainder;
     
     // store the number to originalNum
     int originalNum = num;
